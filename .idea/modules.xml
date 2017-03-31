@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jclouds-urlencode-bug.iml" filepath="$PROJECT_DIR$/.idea/modules/jclouds-urlencode-bug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1568598325/jclouds-urlencode-bug_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1568598325/jclouds-urlencode-bug_main.iml" group="jclouds-urlencode-bug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1568598325/jclouds-urlencode-bug_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1568598325/jclouds-urlencode-bug_test.iml" group="jclouds-urlencode-bug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1568598325/pkgs-jclouds-urlencode-bug.iml" filepath="$PROJECT_DIR$/.idea/modules/1568598325/pkgs-jclouds-urlencode-bug.iml" />
+    </modules>
+  </component>
+</project>
